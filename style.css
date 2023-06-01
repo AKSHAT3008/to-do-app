@@ -1,5 +1,7 @@
 body {
-    background-color: #49B749;
+    background-image: url("tdbg1.png");
+    background-size: 100% 100%;
+    
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 
